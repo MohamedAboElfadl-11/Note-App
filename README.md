@@ -1,11 +1,11 @@
 # Simple Note App
 
-This is a simple note app built with **Express.js**, **Sequelize**, and **SQL**. The app allows users to create, read, update, and delete notes, with data stored in a relational database. The app also features **user authentication**, where each user can only access their own notes.
+This is a simple note app built with **Express.js**, **Sequelize**, and **SQL**. The app allows users to create, read, update, and delete notes, with data stored in a relational database.
 
 ## Features
 - **User authentication**: Sign up and login to access your notes.
 - **CRUD operations**: Create, read, update, and delete notes.
-- **Relational database**: Notes are stored in a database and associated with users.
+- **Relational database**: Notes are stored and associated with users in a database.
 - **RESTful API**: All interactions are done through API endpoints.
 
 ## Technologies Used
