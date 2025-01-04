@@ -11,7 +11,7 @@ This is a simple note app built with **Express.js**, **Sequelize**, and **SQL**.
 ## Technologies Used
 - **Node.js** & **Express.js**: Backend framework for building the app.
 - **Sequelize ORM**: Used to interact with the SQL database.
-- **SQL**: Relational database (MySQL, PostgreSQL, or SQLite).
+- **SQL**: Relational database (MySQL).
 
 
 ### Prerequisites
